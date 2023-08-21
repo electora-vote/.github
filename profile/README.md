@@ -1,4 +1,4 @@
-# (Electora)[https://electora.eu]
+# [Electora](https://electora.eu)
 
 Decentralized and Private Voting - Achieved through ZK proofs of eligibility and decentralized conditional decryption.
 
